@@ -8,11 +8,6 @@ function Header() {
         <HNavbar />
         <HIntro />
       </div>
-      {/* <img
-        src="../src/img/man.png"
-        alt="img"
-        className="object-contain w-[65%]"
-      /> */}
     </div>
   );
 }
